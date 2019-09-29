@@ -35,4 +35,3 @@ public class Exercise2 {
         System.out.println("The distance between the two points is " + distance + " km");
     }
 }
-

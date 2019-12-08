@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise11.java" line="36" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98923da-23ee-40ef-b4d8-513cde003466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise2.java" afterDir="false" />
-    </list>
+    <list default="true" id="e98923da-23ee-40ef-b4d8-513cde003466" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,37 +17,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise10.java">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise12.java">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="116" selection-start-line="20" selection-start-column="116" selection-end-line="20" selection-end-column="116" />
+            <state relative-caret-position="135">
+              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise2.java">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise11.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise24.java">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="315">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -84,6 +145,18 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise2.java" />
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise24.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise1.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise2.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise5.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise6.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise8.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise9.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise11.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise13.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise5.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise6.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise7.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise8.java" />
       </list>
     </option>
   </component>
@@ -120,7 +193,7 @@
               <item name="Introduction-to-Java-Programming" type="462c0819:PsiDirectoryNode" />
               <item name="Summer Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem_Set_4" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_Set_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,6 +210,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,22 +224,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise24">
-    <configuration name="ComputeExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Listings_1.ComputeExpression" />
-      <module name="Summer Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Listings_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_1.Exercise10" />
+  <component name="RunManager" selected="Application.Exercise8">
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_1.Exercise13" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
@@ -177,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_1.Exercise12" />
+    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise5" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Set_1.*" />
+          <option name="PATTERN" value="Problem_Set_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_4.Exercise2" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise6" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Set_4.*" />
+          <option name="PATTERN" value="Problem_Set_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +264,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_4.Exercise24" />
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise7" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Set_4.*" />
+          <option name="PATTERN" value="Problem_Set_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise8" />
+      <module name="Summer Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem_Set_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise24" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise12" />
-        <item itemvalue="Application.Exercise10" />
-        <item itemvalue="Application.ComputeExpression" />
+        <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Exercise5" />
+        <item itemvalue="Application.Exercise13" />
       </list>
     </recent_temporary>
   </component>
@@ -244,13 +318,20 @@
       <option name="project" value="LOCAL" />
       <updated>1569780531171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Problem Set 4 Exercise 24">
+      <created>1569782804847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569782804847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,10 +345,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,11 +361,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Played around with README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Played around with README file" />
+    <MESSAGE value="Added Problem Set 4 Exercise 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Problem Set 4 Exercise 24" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Sets/Chapter1/Chapter2/Exercise1.java" />
-    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise2.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -303,31 +384,14 @@
     <entry file="file://$PROJECT_DIR$/Summer Course/Summer Course.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/WelcomeWithThreeMessages.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/Welcome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/ComputeExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="174">
+          <caret line="1224" column="43" selection-start-line="1224" selection-start-column="43" selection-end-line="1224" selection-end-column="43" />
+          <folding>
+            <element signature="e#49478#49479#0" expanded="true" />
+            <element signature="e#49542#49543#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -341,25 +405,137 @@
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="1224" column="43" selection-start-line="1224" selection-start-column="43" selection-end-line="1224" selection-end-column="43" />
-          <folding>
-            <element signature="e#49478#49479#0" expanded="true" />
-            <element signature="e#49542#49543#0" expanded="true" />
-          </folding>
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_4/Exercise24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="720">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/ComputeExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Listings_1/WelcomeWithThreeMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3.java" />
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_5.java" />
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Exam_2.java" />
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_1/Exercise13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>

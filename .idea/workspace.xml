@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e98923da-23ee-40ef-b4d8-513cde003466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Summer Course/Problem_Set_3/Exercise19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Summer Course/Problem_Set_3/Exercise19.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,39 +22,48 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise23.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="293">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="26" column="110" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="110" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java">
+        <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="375">
+              <caret line="25" column="113" selection-start-line="25" selection-start-column="113" selection-end-line="25" selection-end-column="113" />
             </state>
           </provider>
         </entry>
@@ -106,7 +118,11 @@
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise19.java" />
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise23.java" />
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise9.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/hello.txt" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise21.java" />
         <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise22.java" />
+        <option value="$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise23.java" />
       </list>
     </option>
   </component>
@@ -120,6 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,8 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,20 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise19 (1)">
-    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise14" />
-      <module name="Summer Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem_Set_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise23 (1)">
     <configuration name="Exercise19 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_Set_3.Exercise19" />
       <module name="Summer Course" />
@@ -202,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise19" />
+    <configuration name="Exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_3.Exercise21" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Set_2.*" />
+          <option name="PATTERN" value="Problem_Set_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +218,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Set_2.Exercise23" />
+    <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_3.Exercise22" />
       <module name="Summer Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Set_2.*" />
+          <option name="PATTERN" value="Problem_Set_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise23 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Set_3.Exercise23" />
+      <module name="Summer Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem_Set_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise23 (1)" />
+        <item itemvalue="Application.Exercise22" />
+        <item itemvalue="Application.Exercise21" />
         <item itemvalue="Application.Exercise19 (1)" />
         <item itemvalue="Application.Exercise9 (1)" />
-        <item itemvalue="Application.Exercise23" />
-        <item itemvalue="Application.Exercise19" />
-        <item itemvalue="Application.Exercise14" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +299,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1930533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19547658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +308,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3068493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,17 +335,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Sets/Chapter1/Chapter2/Exercise1.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -519,9 +535,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/hello.txt" />
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_2/Exercise19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state relative-caret-position="195">
           <caret line="13" column="74" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="74" />
         </state>
       </provider>
@@ -533,17 +550,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6695">
+          <caret line="309" column="19" selection-start-line="309" selection-start-column="19" selection-end-line="309" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="293">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="339">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="26" column="110" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="26" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Summer Course/src/Problem_Set_3/Exercise23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="113" selection-start-line="25" selection-start-column="113" selection-end-line="25" selection-end-column="113" />
         </state>
       </provider>
     </entry>

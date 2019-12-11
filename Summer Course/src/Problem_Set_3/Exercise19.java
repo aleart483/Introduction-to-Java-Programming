@@ -20,7 +20,7 @@ public class Exercise19 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter the three side lengths of a triangle: ");
-        int s1 = in.nextInt(), s2 = in.nextInt(), s3 = in.nextInt();
+        double s1 = in.nextInt(), s2 = in.nextInt(), s3 = in.nextInt();
         // check if the sum of each pair is greater than the remaining edge
         if (s1+s2 > s3 && s1+s3 > s2 && s2+s3 > s1)
             System.out.println("The perimeter of the triangle is "+ (s1+s2+s3));
